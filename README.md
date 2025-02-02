@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Akshatt10/DSA/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Akshatt10/DSA/tree/master/0854-making-a-large-island) |
 | [3429-special-array-i](https://github.com/Akshatt10/DSA/tree/master/3429-special-array-i) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Akshatt10/DSA/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
