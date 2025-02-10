@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Akshatt10/DSA/tree/master/0739-daily-temperatures) |
+| [3447-clear-digits](https://github.com/Akshatt10/DSA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Akshatt10/DSA/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Akshatt10/DSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
