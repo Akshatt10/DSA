@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Akshatt10/DSA/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/Akshatt10/DSA/tree/master/0854-making-a-large-island) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshatt10/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Akshatt10/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akshatt10/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Akshatt10/DSA/tree/master/3429-special-array-i) |
