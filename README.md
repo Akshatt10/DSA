@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshatt10/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akshatt10/DSA/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Akshatt10/DSA/tree/master/0739-daily-temperatures) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akshatt10/DSA/tree/master/0383-ransom-note) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -121,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akshatt10/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Akshatt10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshatt10/DSA/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
