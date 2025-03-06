@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Akshatt10/DSA/tree/master/0383-ransom-note) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Akshatt10/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Akshatt10/DSA/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Akshatt10/DSA/tree/master/0383-ransom-note) |
 | [3447-clear-digits](https://github.com/Akshatt10/DSA/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
