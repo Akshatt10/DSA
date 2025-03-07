@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshatt10/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshatt10/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshatt10/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akshatt10/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akshatt10/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0854-making-a-large-island](https://github.com/Akshatt10/DSA/tree/master/0854-making-a-large-island) |
 ## Matrix
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshatt10/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
