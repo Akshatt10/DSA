@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Akshatt10/DSA/tree/master/0854-making-a-large-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshatt10/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Akshatt10/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Akshatt10/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akshatt10/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akshatt10/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akshatt10/DSA/tree/master/0283-move-zeroes) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akshatt10/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Akshatt10/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshatt10/DSA/tree/master/0055-jump-game) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
