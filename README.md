@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshatt10/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Akshatt10/DSA/tree/master/1500-count-largest-group) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Akshatt10/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshatt10/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
