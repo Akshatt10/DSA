@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshatt10/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshatt10/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akshatt10/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akshatt10/DSA/tree/master/0283-move-zeroes) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshatt10/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatt10/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshatt10/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akshatt10/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akshatt10/DSA/tree/master/0383-ransom-note) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Akshatt10/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akshatt10/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Akshatt10/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akshatt10/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshatt10/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
