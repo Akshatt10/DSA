@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Akshatt10/DSA/tree/master/0854-making-a-large-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshatt10/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Akshatt10/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Akshatt10/DSA/tree/master/1929-concatenation-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshatt10/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Akshatt10/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshatt10/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Akshatt10/DSA/tree/master/1929-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/Akshatt10/DSA/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
